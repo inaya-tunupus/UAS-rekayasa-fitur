@@ -1,0 +1,10 @@
+0 bunga mawar
+1 bunga tulip
+2 bunga bakung
+3 bunga matahari
+4 bunga anggrek
+5 bunga teratai
+6 bunga dahlia
+7 lavender ungu
+8 bunga peony
+9 bunga sakura
